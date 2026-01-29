@@ -19,5 +19,3 @@ How to use
 2. Replace images in the images/ folder as needed.
 3. Edit text content in index.html to fit your business.
 
-Contact
-ahmedesm416@gmail.com
